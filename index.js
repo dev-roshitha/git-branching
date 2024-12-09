@@ -5,3 +5,4 @@ const InitFunction =  () => {
 }
 
 InitFunction()
+console.log("test")

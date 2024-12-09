@@ -4,4 +4,4 @@ const InitFunction =  () => {
   alert("Hello javascript")
 }
 
-InitFunction()
+InitFunction("...")
